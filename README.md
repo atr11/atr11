@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-- 🔭 I’m currently looking for work opportunities and working on my portfolio
 - 🌱 I’m currently learning Test Driven Development
-- 💬 Ask me about my experience with InceptionU (aka EvolveU)
-- ⚡ Fun fact: My initials are also my first name (ART)
+- 💬 Ask me about my experience with <a href="https://www.inceptionu.com">InceptionU </a> (aka EvolveU)
+- ⚡ Fun facts: My initials are also my first name (ART)
 - 📫 Reach me via LinkedIn here: https://www.linkedin.com/in/arttreleaven/
 <br/>
 
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.youtube.com/watch?v=5cz0BEzvlmA">
 <img align="left" alt="Art Treleaven | InceptionU Project 3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-Click HERE to see the video
+Click HERE to watch the video
 </a>
 <br />
 <br />
