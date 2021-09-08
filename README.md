@@ -16,27 +16,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <br/>
-
-
-<a href="https://www.linkedin.com/in/arttreleaven/">
-<img align="left" alt="Art Treleaven" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=5cz0BEzvlmA">
-<img align="left" alt="Art Treleaven | InceptionU Project 3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<br />
-
-<br />
+<br/>
 
 - 🔭 I’m currently looking for work opportunities and working on my portfolio
 - 🌱 I’m currently learning Test Driven Development
 - 💬 Ask me about my experience with InceptionU (aka EvolveU)
 - ⚡ Fun fact: My initials are also my first name (ART)
 - 📫 Reach me via LinkedIn here: https://www.linkedin.com/in/arttreleaven/
+<a href="https://www.linkedin.com/in/arttreleaven/">
+<img align="left" alt="Art Treleaven" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-
+### See my team's project-3 submission for InceptionU Cohort-6 on YouTube here: <a href="https://www.youtube.com/watch?v=5cz0BEzvlmA">
+<img align="left" alt="Art Treleaven | InceptionU Project 3" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<br />
 
 **Languages and Tools:**
 
