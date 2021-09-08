@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm Art Treleaven, a Jr Full Stack Developer, Business Analyst, and Customer Service aficionado.
+### Hi there! 👋 
+### I'm Art Treleaven, a Jr Full Stack Developer, Business Analyst, and Customer Service aficionado.
 
 <!--
 **atr11/atr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
