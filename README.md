@@ -1,5 +1,5 @@
 ### Hi there! 👋 
-### I'm Art Treleaven, a Jr Full Stack Developer, Business Analyst, and Customer Service aficionado.
+### I'm Art Treleaven, a Full Stack Developer, Business Analyst, and Customer Service aficionado.
 <a href="https://www.linkedin.com/in/arttreleaven/">
 <img align="left" alt="Art Treleaven" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
